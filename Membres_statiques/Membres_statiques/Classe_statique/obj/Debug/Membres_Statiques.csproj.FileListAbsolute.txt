@@ -1,0 +1,15 @@
+C:\Users\18196\source\repos\Membres_statiques\Classe_statique\bin\Debug\Classe_statique.exe.config
+C:\Users\18196\source\repos\Membres_statiques\Classe_statique\bin\Debug\Classe_statique.exe
+C:\Users\18196\source\repos\Membres_statiques\Classe_statique\bin\Debug\Classe_statique.pdb
+C:\Users\18196\source\repos\Membres_statiques\Classe_statique\obj\Debug\Membres_Statiques.csproj.AssemblyReference.cache
+C:\Users\18196\source\repos\Membres_statiques\Classe_statique\obj\Debug\Membres_Statiques.csproj.CoreCompileInputs.cache
+C:\Users\18196\source\repos\Membres_statiques\Classe_statique\obj\Debug\Classe_statique.exe
+C:\Users\18196\source\repos\Membres_statiques\Classe_statique\obj\Debug\Classe_statique.pdb
+H:\windows programming\Membres_statiques\Membres_statiques\Classe_statique\bin\Debug\Classe_statique.exe.config
+H:\windows programming\Membres_statiques\Membres_statiques\Classe_statique\bin\Debug\Classe_statique.exe
+H:\windows programming\Membres_statiques\Membres_statiques\Classe_statique\bin\Debug\Classe_statique.pdb
+H:\windows programming\Membres_statiques\Membres_statiques\Classe_statique\obj\Debug\Membres_Statiques.csproj.AssemblyReference.cache
+H:\windows programming\Membres_statiques\Membres_statiques\Classe_statique\obj\Debug\Membres_Statiques.csproj.SuggestedBindingRedirects.cache
+H:\windows programming\Membres_statiques\Membres_statiques\Classe_statique\obj\Debug\Membres_Statiques.csproj.CoreCompileInputs.cache
+H:\windows programming\Membres_statiques\Membres_statiques\Classe_statique\obj\Debug\Classe_statique.exe
+H:\windows programming\Membres_statiques\Membres_statiques\Classe_statique\obj\Debug\Classe_statique.pdb
